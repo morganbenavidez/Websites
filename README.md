@@ -1,5 +1,3 @@
-# WebDevelopment
-
 # Websites
 
 [Triple Diamond Data](http://triplediamonddata.com/)

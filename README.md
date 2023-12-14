@@ -1,6 +1,6 @@
 # Websites
 
-[Aiparel](https://aiparel.io)
+[Aiparel](https://www.aiparel.io)
 
 [I-Sense Lab (Institute for Sensing and Embedded Network Systems Engineering)](https://www.fau.edu/isense/)
 

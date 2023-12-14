@@ -2,7 +2,7 @@
 
 [Aiparel](https://aiparel.io)
 
-[Triple Diamond Data](http://triplediamonddata.com/)
+<!--[Triple Diamond Data](http://triplediamonddata.com/)
 
-[Cyber Tool](https://triplediamonddata.com/ComparisonTool.html)
+[Cyber Tool](https://triplediamonddata.com/ComparisonTool.html)-->
 
